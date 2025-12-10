@@ -207,7 +207,12 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👥 Autores
 
-- **Equipo de Desarrollo** - Trabajo inicial
+- **Equipo de Desarrollo** 
+- Jaider Moreno
+- Alejandra Pedraza
+- Miguel Castillo 
+
+
 
 ## 🙏 Agradecimientos
 
