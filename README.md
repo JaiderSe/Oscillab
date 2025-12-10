@@ -3,7 +3,8 @@
 # OscilloData Lab - TDR Analysis System
 
 Un sistema profesional de análisis de datos de osciloscopio con especialización en Time Domain Reflectometry (TDR) para análisis de líneas de transmisión.
-
+## 👾 Funcionamiento
+![link](https://udistritaleduco-my.sharepoint.com/:v:/g/personal/jsmorenoq_udistrital_edu_co/IQDt0P0fWHtBT5bpIFfubv7nAV_QmtUawlpYdSOLcEg22e4?e=77tzjK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 ## 🚀 Características
 
 ### Análisis TDR Completo
