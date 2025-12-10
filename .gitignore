@@ -282,14 +282,6 @@ ENV/
 *.h5
 *.mat
 
-# Plots generados
-plots/
-figures/
-*.png
-*.jpg
-*.jpeg
-*.svg
-*.pdf
 
 # Modelos entrenados (si aplica)
 models/
